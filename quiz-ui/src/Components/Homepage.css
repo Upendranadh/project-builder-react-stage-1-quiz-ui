@@ -1,0 +1,18 @@
+.Homepage{
+    background-color:#2d6187;
+    height: 95vh;
+    color: white;
+    text-align: center;
+    padding: 200px;
+}
+.Homepage_button
+{
+    width: 200px;
+    height:40px;
+    background-color:lightgreen;
+    border-radius: 20px;
+    margin: auto;
+    margin-top: 30px;
+    padding: 1%;
+    cursor: pointer;
+}
