@@ -1,13 +1,13 @@
-.Homepage{
+.QuestionPage{
     background-color:#2d6187;
     height: 95vh;
     color: white;
     text-align: center;
     padding: 200px;
 }
-.Homepage_button
+.QuestionPage_button
 {
-    width: 200px;
+    width: 350px;
     height:40px;
     background-color:lightgreen;
     border-radius: 20px;
@@ -15,4 +15,45 @@
     margin-top: 30px;
     padding: 1%;
     cursor: pointer;
+}
+.buttonTop{
+    display: flex;
+    
+}
+.buttonBottom{
+    display: flex;
+ 
+}
+
+.QuestionPage_button-next-previous{
+    display: flex;
+    align-items: center;
+    margin-left:225px;
+    margin-top:50px;
+    text-align: center;
+
+}
+
+.margin{
+    margin:20px;
+    width:100px;
+   
+}
+
+.blue{
+    background-color: blue;
+    border-radius: 0px;
+    text-align: center;
+
+}
+.green{
+    background-color: green;
+    border-radius: 0px;
+    text-align: center;
+
+}
+.red{
+    background-color: red;
+    border-radius: 0px;
+
 }

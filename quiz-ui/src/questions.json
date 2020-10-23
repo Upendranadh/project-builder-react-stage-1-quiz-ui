@@ -1,0 +1,83 @@
+[
+    {
+           "question": "Which is the only mammal that can’t jump?",
+           "optionA": "Dog",
+           "optionB": "Elephant",
+           "optionC": "Goat",
+           "optionD": "Lion",
+           "answer": "Elephant"
+       },
+       {
+        "question": "When was IPL started",
+        "optionA": "2008",
+        "optionB": "2009",
+        "optionC": "2007",
+        "optionD": "2006",
+        "answer": "2007"
+    },
+    {
+        "question": "Which player has made highest numbers of runs in IPL history?",
+        "optionA": "Suresh Raina",
+        "optionB": "Virat Kohli",
+        "optionC": "Chris Gayle",
+        "optionD": "Murli Vijay",
+        "answer": "Virat Kohli"
+    },
+    {
+        "question": "Which player has taken most numbers of wickets in IPL so far?",
+        "optionA": "Lasith Malinga",
+        "optionB": "Ravindra Jadeja",
+        "optionC": " Zaheer Khan",
+        "optionD": "None of the above",
+        "answer": "Lasith Malinga"
+    },
+    {
+        "question": "Which team has never won the IPL tournament?",
+        "optionA": "Deccan Chargers",
+        "optionB": "Sunrisers Hyderabad",
+        "optionC": " Rajasthan Royals",
+        "optionD": "Royal Challengers Bangalore",
+        "answer": "Royal Challengers Bangalore"
+    },
+    {
+        "question": "Maximum how many foreign players can play in the playing eleven of the IPL match??",
+        "optionA": "3",
+        "optionB": "5",
+        "optionC": "4",
+        "optionD": "Not fixed, depends on the decision of captain of the team",
+        "answer": "Not fixed, depends on the decision of captain of the team"
+    },{
+        "question": "Which is the only mammal that can’t jump?",
+        "optionA": "Dog",
+        "optionB": "Elephant",
+        "optionC": "Goat",
+        "optionD": "Lion",
+        "answer": "Elephant"
+    },
+    {
+     "question": "When was IPL started",
+     "optionA": "2008",
+     "optionB": "2009",
+     "optionC": "2007",
+     "optionD": "2006",
+     "answer": "2007"
+ },
+ {
+     "question": "Which player has made highest numbers of runs in IPL history?",
+     "optionA": "Suresh Raina",
+     "optionB": "Virat Kohli",
+     "optionC": "Chris Gayle",
+     "optionD": "Murli Vijay",
+     "answer": "Virat Kohli"
+ },
+ {
+     "question": "Which player has taken most numbers of wickets in IPL so far?",
+     "optionA": "Lasith Malinga",
+     "optionB": "Ravindra Jadeja",
+     "optionC": " Zaheer Khan",
+     "optionD": "None of the above",
+     "answer": "Lasith Malinga"
+ }
+       
+       
+   ]

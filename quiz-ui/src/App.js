@@ -1,5 +1,5 @@
 import React from "react";
-import Homepage from "./Components/Homepage";
+// import Homepage from "./Components/Homepage";
 import "../src/App.css";
 import QuestionPage from "./Components/QuestionPage";
 
